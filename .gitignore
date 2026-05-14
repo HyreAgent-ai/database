@@ -1,0 +1,25 @@
+# HyreAgent.ai — standard .gitignore for team-as-repo / docs-only repos (docs, prod, proj, ux, qa, security)
+
+# OS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Drafts / scratch
+draft/
+scratch/
+tmp/
+*.tmp
